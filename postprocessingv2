@@ -1,0 +1,9 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.SceneManagement;
+
+public class MainMenu : MonoBehaviour {
+
+ public GUISkin theSkin;
+public Texture v2
+}
